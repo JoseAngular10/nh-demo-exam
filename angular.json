@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "examen-libros"
+    }
+  },
+  "defaultProject": "examen-libros",
+  "cli": {
+    "analytics": "093986df-e947-4a8c-8144-bd9e5299a71d"
+  }
 }
